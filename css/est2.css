@@ -1,0 +1,4 @@
+.row > div{
+    border: solid 2px rgb(255, 255, 255);
+    margin-top: 5px;
+}
